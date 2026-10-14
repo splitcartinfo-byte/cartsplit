@@ -76,17 +76,7 @@ BrandTogether is a group buying web platform designed for physical retail fashio
    npm install
    ```
 
-3. **Configure Environment Variables** (`.env.local`):
-   ```env
-   VITE_ADMIN_PASSWORD=adminPass123!
-   VITE_FIREBASE_API_KEY=AIzaSyAEvsnSnDR1Vm7Yw61kjBgnpR9nA12gBrU
-   VITE_FIREBASE_AUTH_DOMAIN=fir-caae2.firebaseapp.com
-   VITE_FIREBASE_PROJECT_ID=fir-caae2
-   VITE_FIREBASE_STORAGE_BUCKET=fir-caae2.appspot.com
-   VITE_FIREBASE_MESSAGING_SENDER_ID=774864576476
-   VITE_FIREBASE_APP_ID=1:774864576476:web:a9b558c9ab4929363c3919
-   VITE_FIREBASE_MEASUREMENT_ID=G-KBEQMZN5BW
-   ```
+
 
 4. **Run Development Server**:
    ```bash
